@@ -1,8 +1,7 @@
-<link href="foghorn.css" type="text/css" rel="stylesheet"></link>
-
-#The Thirty-Six Stratagems of Vivec
-
+#*36 Stratagems*
+***
 [1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#) [7](#) [8](#) [9](#) [10](#) [11](#) [12](#) [13](#) [14](#) [15](#) [16](#) [17](#) [18](#) [19](#) [20](#) [21](#) [22](#) [23](#) [24](#) [25](#) [26](#) [27](#) [28](#) [29](#) [30](#) [31](#) [32](#) [33](#) [34](#) [35](#) [36](#) 
+***
 
 <h2 id="1">Watch the fires burning across the river. The unmixed conflict path, perfect in every way.</h2>
 
@@ -38,12 +37,36 @@ Cao Cao looked at Pang Tong like an alien might look at an alien that is equally
 
 And with that the Wei army began linking their ships.
 
-
-
-
+***
 <h2 id="2">Feign madness but keep your balance. God hath three keys; of birth, of machines, and of the words between.</h2>
 
-<h2 id="3">Befriend a distant state and strike a neighbouring one. Its role and value in society at large are controversial. <h2>
+_Wherein a bright-eyed Liu Bei talks to the perpetually drunken Guan Yu of his fascination with a hypothesized entity: trains._
 
+Guan Yu was walking to the tent wherein strategy meetings were held. He'd been summoned there by his blood-brother Liu Bei, King of Shu, a man of utmost virtue & benevolence, some intelligence, and much general strangeness of manner. Guan Yu was extremely drunk, which was normal for him. Guan Yu was the God of War and constantly tried to distract himself from it with plum wine. Outwardly he never _seemed_ drunk; he seemed like an imposing & foreboding warrior with a majestic beard, which was also true.
 
+Liu Bei looked up from his calligraphy sandbox in delight as Guan Yu elegantly stumbled into the tent.
+
+"Brother! Thank you for coming. I would like to speak to you about something, if that's okay. What I would like to speak to you about is this: I like trains."
+
+The God of War did as he always did in such conversations with his Lord: he pretended to know what was going on. "Ah, yes, Trains. A fine officer."
+
+Liu Bei gave his blood-brother a puzzled squint but his excitement was not dampened. "No! Trains! Trains is not an officer. Trains are like horses, but they only walk on roads made of steel beams, and you can't befriend them, or at least, I do not think you can befriend them, I don't mean you in particular can't befriend them, you are a good human but I don't think any human can befriend a train, so I suppose in that way trains are more like wheelbarrows than horses, but generally speaking they are more like horses than wheelbarrows I think, I'm not sure..." and as he trailed off he became entirely oblivious to the existence of an external world—a common occurrence.
+
+Guan Yu gave his blood-brother a puzzled squint in turn. "So trains are akin to wheelbarrow-horses that move along tracks?"
+
+Jolted from his pondering, Liu Bei's expression of delight was almost obscene. "Yes! I think trains are like that. That is the impression I got from Zhuge Liang. He said such fascinating things. You see, the steel beams strewn across the countryside—Zhuge Liang says many of them used to be roads for trains..."
+
+***
+<h2 id="3">Befriend a distant state and strike a neighbouring one. Its role and value in society at large are controversial.</h2>
+
+_Wherein the laughing pirate Gan Ning talks with the green-eyed strategist Zhou Yu of Wu's recent alliance with Shu._
+
+***
+<h2 id="4">not sure what to put here, something with more action than conversation, also should describe the area around Wuling ideally so as to provide context for later battle chapters</h2>
+
+***
 <h2 id="5">Take the opportunity to pilfer a goat. There is something in it that will become sacred.</h2>
+
+_Wherein an angel visits the observatory of Zhuge Liang._
+
+Zhuge Liang may not have been interested in the supernatural, but the supernatural was interested in him.
